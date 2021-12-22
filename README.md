@@ -38,7 +38,7 @@ In the initial stage, the user has to input the corresponding name. Afterward, w
 ## Getting Started
 
 * Clone the project
-* install the dependencies 
+* Install the dependencies 
 
 ### Prerequisites
 
