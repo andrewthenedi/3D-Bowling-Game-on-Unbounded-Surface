@@ -4,8 +4,8 @@ Introduction
 * The main objective of this project is to hit as many bowling pins as possible, given that
 the ball has not fallen down to the surface, as the score corresponds to the number of hit bowling
 pins. 
-* In addition, this project will utilize mainly a three.js framework, build on top of WebGL,
-other relevant javascript frameworks (tentative), and package the model under GitHub to run the
+* In addition, this project utilizes mainly a three.js framework, build on top of WebGL,
+other relevant javascript frameworks, and package the model under GitHub to run the
 3D game application model in the browser.
 
 Project Details
