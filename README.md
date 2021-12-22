@@ -52,7 +52,7 @@ You need to have installed following softwares and libraries in your machine bef
 
 ## Built With
 
-* Tree.js
+* Three.js
 * Cannon-es
 * Typescript
 
