@@ -1,4 +1,4 @@
-# 3D-Bowling-Game-on-Unbounded-Surface
+# 3D Bowling Game on Unbounded Surface
 
 Introduction
 * The main objective of this project is to hit as many bowling pins as possible, given that
