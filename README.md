@@ -8,7 +8,7 @@ pins.
 other relevant javascript frameworks, and package the model under GitHub to run the
 3D game application model in the browser.
 
-Project Details
+Project Details (Video Demo: https://drive.google.com/file/d/1vIxQ3Ku4FcGCqiFYHs9_BsdSsI4RniNJ/view?usp=sharing)
 * User Input Controller
 In the initial stage, the user has to input the corresponding name. Afterward, with the help of the Three.js (cross-browser library for the JavaScript programming language), the user can start to move the ball in a certain direction according to the input, as follow:
   * If the user presses the ‘w’ button on the keyboard, the ball will go to the north side.
