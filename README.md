@@ -10,13 +10,13 @@ other relevant javascript frameworks (tentative), and package the model under Gi
 Project Details
 * User Input Controller
 In the initial stage, the user has to input the corresponding name. Afterward, with the help of the Three.js (cross-browser library for the JavaScript programming language), the user can start to move the ball in a certain direction according to the input, as follow:
-** If the user presses the ‘w’ button on the keyboard, the ball will go to the north side.
-** If the user presses the ‘a’ button on the keyboard, the ball will go to the west side.
-** If the user presses the ‘s’ button on the keyboard, the ball will go to the south side.
-** If the user presses the ‘d’ button on the keyboard, the ball will go to the east side.
-** If the user presses the ‘space’ button on the keyboard, the ball will jump.
-** If the user presses the ‘esc’ button on the keyboard, the game will restart.
-** If the user moves the trackpad or mouse during the game, the view direction will be changed dynamically.
+  * If the user presses the ‘w’ button on the keyboard, the ball will go to the north side.
+  * If the user presses the ‘a’ button on the keyboard, the ball will go to the west side.
+  * If the user presses the ‘s’ button on the keyboard, the ball will go to the south side.
+  * If the user presses the ‘d’ button on the keyboard, the ball will go to the east side.
+  * If the user presses the ‘space’ button on the keyboard, the ball will jump.
+  * If the user presses the ‘esc’ button on the keyboard, the game will restart.
+  * If the user moves the trackpad or mouse during the game, the view direction will be changed dynamically.
 
 * Object Placing
 a. In each iteration, the bowling pin, ball, and obstacles will be located randomly on
