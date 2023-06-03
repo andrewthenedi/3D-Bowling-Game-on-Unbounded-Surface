@@ -8,7 +8,7 @@ pins.
 other relevant javascript frameworks, and package the model under GitHub to run the
 3D game application model in the browser.
 
-Video Demo: https://drive.google.com/file/d/1vIxQ3Ku4FcGCqiFYHs9_BsdSsI4RniNJ/view?usp=sharing
+Project Report: https://drive.google.com/file/d/14FI6AwaF_sT4LrCu1ZxO7NFbnhnyXQuM/view?usp=sharing
 
 Project Details 
 * User Input Controller
